@@ -1,0 +1,55 @@
+.hidden{
+    display:none
+}
+
+body{
+    position:relative;
+}
+
+#sub{
+    position: absolute;
+    display:flex;
+}
+
+h2{
+    position:absolute;
+    margin-top:100%;
+    margin-left:313%;
+    color:white;
+    font-size:40px;
+}
+#greeting{
+    position: absolute;
+    color:whitesmoke;
+    margin-left: 308%;
+    margin-top:50%;
+}
+#login-form{
+    display:flex;
+    margin-left: 308%;
+    margin-top:30%;
+}
+#todo-form{
+    display: block;
+    position: absolute;
+    color:whitesmoke;
+    margin-left: 308%;
+    margin-top:150%;
+}
+ul{
+    display: block;
+    position: absolute;
+    color:whitesmoke;
+    margin-left: 198%;
+    margin-top:180%;
+}
+#weather{
+    display:flex;
+    position: absolute;
+    color:brown;
+    margin-left:0%;
+    float:right;
+}
+span{
+    display:inline-flex;
+}
